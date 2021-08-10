@@ -43,3 +43,67 @@ For details, see ....REFERENCES....
 <img src="tmpplots_20210805_20/dist_post_fix_effects_PRIORS_car_ar-Migration route.png" height="70%" width="70%" align="center"/>
 
 <img src="tmpplots_20210805_20/dist_post_fix_effects_PRIORS_car_ar-Trend.png" height="70%" width="70%" align="center"/>
+
+
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> term </th>
+   <th style="text-align:right;"> gaussian1 </th>
+   <th style="text-align:right;"> gaussian2 </th>
+   <th style="text-align:right;"> gaussian3 </th>
+   <th style="text-align:right;"> gaussian4 </th>
+   <th style="text-align:right;"> gaussian5 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:right;"> 0.21 </td>
+   <td style="text-align:right;"> 0.21 </td>
+   <td style="text-align:right;"> 0.22 </td>
+   <td style="text-align:right;"> 0.20 </td>
+   <td style="text-align:right;"> 0.18 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> amap </td>
+   <td style="text-align:right;"> 1.12 </td>
+   <td style="text-align:right;"> 1.12 </td>
+   <td style="text-align:right;"> 1.12 </td>
+   <td style="text-align:right;"> 1.12 </td>
+   <td style="text-align:right;"> 1.12 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> marih </td>
+   <td style="text-align:right;"> 0.96 </td>
+   <td style="text-align:right;"> 0.96 </td>
+   <td style="text-align:right;"> 0.96 </td>
+   <td style="text-align:right;"> 0.96 </td>
+   <td style="text-align:right;"> 0.96 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rutmig1 </td>
+   <td style="text-align:right;"> 1.70 </td>
+   <td style="text-align:right;"> 1.69 </td>
+   <td style="text-align:right;"> 1.70 </td>
+   <td style="text-align:right;"> 1.70 </td>
+   <td style="text-align:right;"> 1.70 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> enfren.lweek </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 1.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ym1 </td>
+   <td style="text-align:right;"> 1.55 </td>
+   <td style="text-align:right;"> 1.55 </td>
+   <td style="text-align:right;"> 1.55 </td>
+   <td style="text-align:right;"> 1.56 </td>
+   <td style="text-align:right;"> 1.58 </td>
+  </tr>
+</tbody>
+</table>
