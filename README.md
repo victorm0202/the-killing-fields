@@ -1,4 +1,4 @@
-# the-killing-fields
+# The killing fields
 Supplementary material for the paper 
 
 "The killing fields. A Bayesian analysis of crop eradication and organized crime violence in Mexico"
